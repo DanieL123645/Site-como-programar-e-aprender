@@ -4,6 +4,18 @@ body {
     background: linear-gradient(to right, rgb(153, 0, 255), rgb(0, 106, 255), #00c3ff, #00ff6a, rgb(60, 255, 0), rgb(208, 255, 0), rgb(255, 123, 0), red, rgb(255, 0, 106), rgb(255, 0, 157), rgb(255, 0, 242), rgb(212, 0, 255), rgb(153, 0, 255));
 }
 
+
+::-webkit-scrollbar{
+    width: 15px;
+    background: linear-gradient(to top, #ffffff, #ffffff);
+    border: 2px solid black;
+}
+
+::-webkit-scrollbar-thumb{
+        background: linear-gradient(to top, #00f3ff, #00bbc5);
+        border: 2px solid black;
+}
+
 h1 {
     color: #ff0000;
     font-family: cursive;

@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background: linear-gradient(to right, rgb(153, 0, 255), rgb(0, 106, 255), #00c3ff, #00ff6a, rgb(60, 255, 0), rgb(208, 255, 0), rgb(255, 123, 0), red, rgb(255, 0, 106), rgb(255, 0, 157), rgb(255, 0, 242), rgb(212, 0, 255), rgb(153, 0, 255));
+    background: linear-gradient(to right, #ffffff, #d6d6d6)
 }
 
 
@@ -17,9 +17,9 @@ body {
 }
 
 h1 {
-    color: #ff0000;
+    color: #d6d6d6;
     font-family: cursive;
-    background: linear-gradient(to right, #00c3ff, #00ff88, #00ff00);
+    background: linear-gradient(to right, #000000, #292929);
     font-weight: 900;
     border: 4px solid #ffffff;
 }
@@ -29,9 +29,6 @@ a {
     color: blue;
     font-family: cursive;
     font-weight: 600;
-    background: linear-gradient(to left, #3cff00, #e5ff00, #00ffaa);
-    border-radius: 5px;
-    border: 1px solid white;
 }
 
 h2 {
@@ -42,14 +39,12 @@ h2 {
 
 h3 {
     font-family: cursive;
-    color: rgb(255, 255, 255);
-    background: linear-gradient(to right, rgb(0, 0, 0), rgb(0, 13, 32), #001d25, #001d0c, rgb(7, 29, 0), rgb(31, 37, 0), rgb(58, 28, 0), rgb(41, 0, 0), rgb(41, 0, 17), rgb(37, 0, 23), rgb(43, 0, 40), rgb(34, 0, 41), rgb(20, 0, 34));
+    color: rgb(0, 0, 0);
 }
 
 h4 {
     font-family: cursive;
     color: #000000;
-    background: linear-gradient(to left, rgb(255, 255, 255), rgb(216, 231, 255), #e8faff, #c5ffdd, rgb(217, 255, 206), rgb(244, 255, 189), rgb(255, 243, 197), rgb(255, 182, 182), rgb(255, 213, 230), rgb(255, 218, 241), rgb(255, 219, 253), rgb(249, 220, 255), rgb(239, 216, 255));
 }
 
 p {
